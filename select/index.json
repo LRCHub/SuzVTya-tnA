@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "エブリディいっしょ♪",
+  "base_artist": "アロナ(CV:小原好美)",
+  "createdAt": "2026-03-02T20:09:10.716561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エブリディいっしょ♪",
+      "artist": "アロナ(CV:小原好美)",
+      "has_synced": true,
+      "path": "select/01_エブリディいっしょ♪_アロナ(CV_小原好美).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エブリディいっしょ♪",
+      "artist": "アロナ(CV.小原好美)",
+      "has_synced": true,
+      "path": "select/02_エブリディいっしょ♪_アロナ(CV.小原好美).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エブリディいっしょ♪",
+      "artist": "アロナ(CV:小原好美)",
+      "has_synced": false,
+      "path": "select/pl_01_エブリディいっしょ♪_アロナ(CV_小原好美).txt"
+    }
+  ]
+}
